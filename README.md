@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Crisxzu
+- 👋 Hi, I’m @Crisxzu or Dazu/Crisx
 - 👀 I’m interested in new technologies, programming, anime and manga
 - 🌱 I’m currently learning websites creation, games development, Python, C/C++
 - 💞️ I’m looking to collaborate on freelance projects
