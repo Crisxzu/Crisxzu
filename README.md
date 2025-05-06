@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crisxzu&label=Profile%20views&color=0e75b6&style=flat" alt="crisxzu" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/cd36abcd-910b-4ef6-8fb3-9d2959213680.svg)](https://wakatime.com/@cd36abcd-910b-4ef6-8fb3-9d2959213680)
+
 - 🌱 I’m currently learning **websites creation, games development, mobile app development**
 
 - 👨‍💻 All of my projects are available at [dazu.fr](dazu.fr)
