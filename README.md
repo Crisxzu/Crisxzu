@@ -1,4 +1,4 @@
-# Hi 👋, I'm Crisxzu
+# Hi 👋, I'm Dazu or Crisxzu
 
 ### Web and Mobile developer from Côte d'Ivoire
 
