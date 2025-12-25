@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dazu or Crisxzu
 
-### Web and Mobile developer from Côte d'Ivoire
+### Programming Enjoyer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crisxzu&label=Profile%20views&color=0e75b6&style=flat" alt="crisxzu" /> </p>
 
